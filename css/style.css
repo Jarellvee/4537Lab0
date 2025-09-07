@@ -1,0 +1,15 @@
+#promptArea,
+#title,
+#message {
+    text-align: center;
+}
+
+#buttonArea {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#userInput {
+    width: 20%;
+    text-align: center;
+}
